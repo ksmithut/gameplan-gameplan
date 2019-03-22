@@ -1,0 +1,10 @@
+{
+  "name": "gameplan-gameplan",
+  "description": "A gameplan template to create gameplan templates",
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
